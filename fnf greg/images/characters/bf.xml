@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="wimpy bf.png"><SubTexture name="wimpy bf sing note down0000" x="0" y="0" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf sing note down0001" x="194" y="0" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf sing note down0002" x="388" y="0" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf sing note down0003" x="582" y="0" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf idle dance0000" x="0" y="212" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf idle dance0001" x="194" y="212" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf idle dance0002" x="388" y="212" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf idle dance0003" x="582" y="212" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf idle dance0004" x="0" y="424" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf idle dance0005" x="194" y="424" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf sing note left0000" x="388" y="424" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf sing note left0001" x="582" y="424" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf sing note left0002" x="0" y="636" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf sing note left0003" x="194" y="636" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf sing note right0000" x="388" y="636" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf sing note right0001" x="582" y="636" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf sing note right0002" x="0" y="848" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf sing note right0003" x="194" y="848" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf sing note up0000" x="388" y="848" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf sing note up0001" x="582" y="848" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf sing note up0002" x="0" y="1060" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+<SubTexture name="wimpy bf sing note up0003" x="194" y="1060" width="194" height="212" frameX="0" frameY="0" frameWidth="194" frameHeight="212" />
+</TextureAtlas>

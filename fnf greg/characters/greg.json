@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [-97, -76],
+			"anim": "idle-loop",
+			"fps": 14,
+			"name": "Dad idle dance",
+			"indices": [10, 11, 12, 12]
+		},
+		{
+			"offsets": [-97, -76],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "greg idle"
+		},
+		{
+			"offsets": [-115, -94],
+			"loop": false,
+			"fps": 14,
+			"anim": "singdown",
+			"indices": [],
+			"name": "greg down"
+		},
+		{
+			"offsets": [-166, -105],
+			"loop": false,
+			"fps": 12,
+			"anim": "sing up",
+			"indices": [],
+			"name": "greg up"
+		},
+		{
+			"offsets": [-265, -102],
+			"loop": false,
+			"fps": 14,
+			"anim": "singright",
+			"indices": [],
+			"name": "greg right"
+		},
+		{
+			"loop": false,
+			"offsets": [-51, -91],
+			"anim": "singleft",
+			"fps": 24,
+			"name": "greg left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-69, -100],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "greg down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-103, -87],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "greg left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-149, -109],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "greg up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-242, -95],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "greg right",
+			"indices": []
+		},
+		{
+			"offsets": [-270, -96],
+			"loop": true,
+			"fps": 14,
+			"anim": "singLEFT-loop",
+			"indices": [12, 13, 14, 15],
+			"name": "greg left"
+		},
+		{
+			"loop": true,
+			"offsets": [-267, -94],
+			"anim": "singRIGHT-loop",
+			"fps": 14,
+			"name": "greg right",
+			"indices": [15, 16, 17, 18]
+		},
+		{
+			"loop": true,
+			"offsets": [-259, -96],
+			"anim": "singUP-loop",
+			"fps": 14,
+			"name": "greg sing up",
+			"indices": [56, 57, 58, 59]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/greg",
+	"position": [-290, 0],
+	"healthicon": "greg",
+	"flip_x": false,
+	"healthbar_colors": [175, 102, 206],
+	"camera_position": [-10, 130],
+	"sing_duration": 6.1,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

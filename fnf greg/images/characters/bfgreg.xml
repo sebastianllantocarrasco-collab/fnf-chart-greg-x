@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfgreg.png">
+<SubTexture name="bfgreg idle0000" x="328" y="421" width="357" height="379" frameX="-127" frameY="-151" frameWidth="640" frameHeight="640" />
+<SubTexture name="bfgreg idle0001" x="0" y="805" width="352" height="377" frameX="-125" frameY="-154" frameWidth="640" frameHeight="640" />
+<SubTexture name="bfgreg idle0002" x="1035" y="0" width="352" height="378" frameX="-125" frameY="-153" frameWidth="640" frameHeight="640" />
+<SubTexture name="bfgreg left0000" x="707" y="0" width="328" height="384" frameX="-137" frameY="-146" frameWidth="640" frameHeight="640" />
+<SubTexture name="bfgreg left0001" x="0" y="421" width="328" height="384" frameX="-136" frameY="-146" frameWidth="640" frameHeight="640" />
+<SubTexture name="bfgreg down0000" x="701" y="805" width="350" height="331" frameX="-173" frameY="-199" frameWidth="640" frameHeight="640" />
+<SubTexture name="bfgreg down0001" x="352" y="805" width="349" height="332" frameX="-173" frameY="-199" frameWidth="640" frameHeight="640" />
+<SubTexture name="bfgreg up0000" x="354" y="0" width="353" height="420" frameX="-170" frameY="-110" frameWidth="640" frameHeight="640" />
+<SubTexture name="bfgreg up0001" x="0" y="0" width="354" height="421" frameX="-173" frameY="-109" frameWidth="640" frameHeight="640" />
+<SubTexture name="bfgreg right0000" x="685" y="421" width="331" height="379" frameX="-197" frameY="-151" frameWidth="640" frameHeight="640" />
+<SubTexture name="bfgreg right0001" x="1035" y="378" width="334" height="378" frameX="-200" frameY="-151" frameWidth="640" frameHeight="640" />
+</TextureAtlas>

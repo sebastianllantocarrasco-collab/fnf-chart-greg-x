@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="greglitch.png">
+<SubTexture name="greglitch idle0000" x="0" y="0" width="290" height="603" frameX="-144" frameY="-34" frameWidth="640" frameHeight="640" />
+<SubTexture name="greglitch idle0001" x="290" y="0" width="290" height="603" frameX="-144" frameY="-34" frameWidth="640" frameHeight="640" />
+<SubTexture name="greglitch idle0002" x="580" y="0" width="286" height="603" frameX="-144" frameY="-34" frameWidth="640" frameHeight="640" />
+<SubTexture name="greglitch idle0003" x="866" y="0" width="286" height="602" frameX="-144" frameY="-35" frameWidth="640" frameHeight="640" />
+<SubTexture name="greglitch idle0004" x="1152" y="0" width="286" height="602" frameX="-144" frameY="-35" frameWidth="640" frameHeight="640" />
+<SubTexture name="greglitch left0000" x="539" y="603" width="351" height="581" frameX="-142" frameY="-56" frameWidth="640" frameHeight="640" />
+<SubTexture name="greglitch left0001" x="890" y="603" width="350" height="580" frameX="-142" frameY="-57" frameWidth="640" frameHeight="640" />
+<SubTexture name="greglitch down0000" x="1438" y="0" width="327" height="574" frameX="-131" frameY="-58" frameWidth="640" frameHeight="640" />
+<SubTexture name="greglitch down0001" x="1438" y="574" width="326" height="571" frameX="-131" frameY="-61" frameWidth="640" frameHeight="640" />
+<SubTexture name="greglitch up0000" x="269" y="603" width="270" height="593" frameX="-136" frameY="-43" frameWidth="640" frameHeight="640" />
+<SubTexture name="greglitch up0001" x="0" y="603" width="269" height="596" frameX="-137" frameY="-40" frameWidth="640" frameHeight="640" />
+<SubTexture name="greglitch right0000" x="0" y="1199" width="413" height="561" frameX="-82" frameY="-52" frameWidth="640" frameHeight="640" />
+<SubTexture name="greglitch right0001" x="413" y="1199" width="417" height="561" frameX="-82" frameY="-52" frameWidth="640" frameHeight="640" />
+</TextureAtlas>

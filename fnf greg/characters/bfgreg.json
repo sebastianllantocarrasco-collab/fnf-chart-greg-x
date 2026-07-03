@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				188
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bfgreg idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				192
+			],
+			"anim": "singdown",
+			"fps": 12,
+			"name": "bfgreg down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				184
+			],
+			"anim": "singup",
+			"fps": 12,
+			"name": "bfgreg up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				191
+			],
+			"anim": "singright",
+			"fps": 12,
+			"name": "bfgreg right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-54,
+				195
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singleft",
+			"loop": false,
+			"name": "bfgreg left"
+		},
+		{
+			"offsets": [
+				-28,
+				190
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bfgreg down"
+		},
+		{
+			"offsets": [
+				-44,
+				190
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bfgreg up"
+		},
+		{
+			"offsets": [
+				-59,
+				189
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bfgreg right"
+		},
+		{
+			"offsets": [
+				-32,
+				188
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bfgreg left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bfgreg",
+	"position": [
+		-185,
+		372
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-80,
+		-182
+	],
+	"sing_duration": 4,
+	"scale": 1.24,
+	"_editor_isPlayer": true
+}
